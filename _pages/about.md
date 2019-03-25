@@ -3,4 +3,4 @@ title: "About"
 permalink: /about/
 ---
 
-Finally here!
+I'm a mathematician who is enthusiastic in modeling renewable power plants.
