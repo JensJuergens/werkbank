@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Jens Juergens"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/test.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Forecasting is fun"
   location         : "Hamburg, DE"
   email            :
@@ -294,7 +294,7 @@ defaults:
       share: true
       related: true
       defaults:
-      
+
   # _pages
   - scope:
       path: ""
@@ -302,4 +302,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
