@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  overlay_image: /images/about.jpg
+  image: /images/about.JPG
 ---
 
 I'm a mathematician who is enthusiastic in modeling renewable power plants.
