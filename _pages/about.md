@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-excerpt: "\\"
+excerpt: "me"
 header:
   overlay_image: /images/lettland.JPG
 ---
