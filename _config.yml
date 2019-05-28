@@ -110,7 +110,6 @@ author:
   avatar           : "/images/test.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Fun with forecasting"
   location         : "Hamburg, DE"
-  email            : "jensjuergi@googlemail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
