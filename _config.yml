@@ -110,11 +110,11 @@ author:
   avatar           : "/images/test.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Fun with forecasting"
   location         : "Hamburg, DE"
-  email            :
+  email            : "jensjuergi@googlemail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:jensjuergi@googlemail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -305,3 +305,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "https-jensjuergens-github-io-werkbank"
