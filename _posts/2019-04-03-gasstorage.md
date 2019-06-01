@@ -3,7 +3,7 @@ title: "Renewables storage - control the plant controller"
 date: 2019-05-28
 description: "Monte-carlo optimisaton of power to gas renewables plant"
 tags: [Gamma Distribution, Normal Inverse Gaussian, Monte-Carlo simulation, Levy process, Gas Storage, Power-to-Gas]
-excerpt: "Applications"
+excerpt: "Monte-Carlo optimisation of power to gas plant"
 mathjax: true
 header:
   overlay_image: /images/power_to_gas_banner.png
