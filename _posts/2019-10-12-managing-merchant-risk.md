@@ -1,5 +1,5 @@
 ---
-title: "Managing merchant risk - PPAs or OTC"
+title: "Managing merchant risk - PPAs or Options"
 date: 2019-10-12
 description: "Case study on hedging wind farm operating revenues"
 tags: [Monte-Carlo Simulation, PPA, Asian Put, wind]
