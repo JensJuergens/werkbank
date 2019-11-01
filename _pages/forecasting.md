@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /forecasting/
+permalink: /Posts/
 title: "Forecasting Posts by Tags"
 author_profile: true
 ---
